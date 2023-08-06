@@ -5,7 +5,14 @@
 
 ### :man_technologist: App Brainstorming:
 ## Instagram:
-- Changing the background color of the messages screen
-
+- Archiving the old posts
 - Deleting old messages
 
+
+## Snap:
+- Locating your friend
+- Auto-deleting message in 24 hours
+
+## Facebook:
+- Watching live streaming video
+- Changing the background of the main application
